@@ -1,3 +1,3 @@
 # Demo
-This is my first Git repository
-Author - Aditya Tanwar
+This is my first Git repository.
+Author - Aditya Tanwar.
